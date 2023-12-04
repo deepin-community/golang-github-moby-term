@@ -1,5 +1,43 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-moby-term (0.0~git20230502.9c3c875-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version 0.0~git20230502.9c3c875.
+  * Bump Standards-Version to 4.6.2.
+  * Update packaging copyright years.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Francisco Vilmar Cardoso Ruviaro <vilmar@debian.org>  Tue, 25 Jul 2023 13:47:23 +0000
+
+golang-github-moby-term (0.0~git20221120.abb1982-1) unstable; urgency=medium
+
+  * New upstream version 0.0~git20221120.abb1982.
+
+ -- Francisco Vilmar Cardoso Ruviaro <vilmar@debian.org>  Wed, 23 Nov 2022 17:51:35 +0000
+
+golang-github-moby-term (0.0~git20220808.39b0c02-1) unstable; urgency=medium
+
+  * New upstream version 0.0~git20220808.39b0c02.
+  * Bump Standards-Version to 4.6.1.
+  * Update my email address.
+  * Update packaging copyright years.
+  * Change section to golang.
+
+ -- Francisco Vilmar Cardoso Ruviaro <vilmar@debian.org>  Thu, 01 Sep 2022 16:28:28 +0000
+
+golang-github-moby-term (0.0~git20210619.3f7ff69-1) unstable; urgency=medium
+
+  * New upstream version 0.0~git20210619.3f7ff69.
+  * Bump Standards-Version to 4.5.1.
+  * debian/gbp.conf: replace debian/master with debian/latest.
+
+ -- Francisco Vilmar Cardoso Ruviaro <vilmar@debian.org>  Mon, 06 Sep 2021 16:55:08 +0000
+
+golang-github-moby-term (0.0~git20201110.bea5bbe-1) unstable; urgency=medium
+
+  * New upstream version 0.0~git20201110.bea5bbe.
+
+ -- Francisco Vilmar Cardoso Ruviaro <vilmar@debian.org>  Mon, 16 Nov 2020 18:27:56 +0000
+
+golang-github-moby-term (0.0~git20201101.25d840c-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #973820)
+
+ -- Francisco Vilmar Cardoso Ruviaro <vilmar@debian.org>  Thu, 05 Nov 2020 11:27:34 +0000
